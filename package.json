@@ -1,0 +1,8 @@
+{
+  "name": "asierbot-bypass-worker",
+  "version": "1.0.0",
+  "description": "Worker de bypass de links para AsierBot",
+  "engines": {
+    "node": ">=18"
+  }
+}
